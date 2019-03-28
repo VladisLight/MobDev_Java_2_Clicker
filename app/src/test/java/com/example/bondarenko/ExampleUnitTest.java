@@ -1,4 +1,4 @@
-package com.example.mobile_task_1_2_clicker;
+package com.example.bondarenko;
 
 import org.junit.Test;
 

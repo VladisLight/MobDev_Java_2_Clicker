@@ -1,4 +1,4 @@
-package com.example.mobile_task_1_2_clicker;
+package com.example.bondarenko;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.mobile_task_1_2_clicker", appContext.getPackageName());
+        assertEquals("com.example.bondarenko", appContext.getPackageName());
     }
 }
